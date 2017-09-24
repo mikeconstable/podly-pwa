@@ -4,7 +4,7 @@
       <span>Podly</span>
     </header>
     <main>
-      <img src="./assets/logo.png" alt="Vue.js PWA">
+      <img src="./assets/logo.png" alt="Podly">
       <router-view></router-view>
     </main>
   </div>
@@ -36,7 +36,7 @@ main {
 header {
   margin: 0;
   height: 56px;
-  padding: 0 16px 0 24px;
+  padding: 5px 16px 0 24px;
   background-color: #35495E;
   color: #ffffff;
 }
